@@ -1,0 +1,47 @@
+{
+  "configVersion": 1,
+  "index": "https://wvduijn.github.io/pwc/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://wvduijn.github.io/pwc/favicon.ico",
+        "https://wvduijn.github.io/pwc/index.html",
+        "https://wvduijn.github.io/pwc/inline.070364b7c5a975e7faef.bundle.js",
+        "https://wvduijn.github.io/pwc/main.11c13104e7cd341818d3.bundle.js",
+        "https://wvduijn.github.io/pwc/polyfills.43a6a16e791d2caa0484.bundle.js",
+        "https://wvduijn.github.io/pwc/styles.433ae262f62bc0d4f0fb.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://wvduijn.github.io/pwc/assets/pwcat-icon-128x128.png",
+        "https://wvduijn.github.io/pwc/assets/pwcat-icon-152x152.png",
+        "https://wvduijn.github.io/pwc/assets/pwcat-icon-256x256.png",
+        "https://wvduijn.github.io/pwc/assets/pwcat-icon-512x512.png"
+      ],
+      "patterns": [
+        "https:\\/\\/cataas\\.com\\/.*"
+      ]
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://wvduijn.github.io/pwc/inline.070364b7c5a975e7faef.bundle.js": "d07eda45808a51ff9dda790bf87e288f84045f3d",
+    "https://wvduijn.github.io/pwc/assets/pwcat-icon-128x128.png": "2798241a77ababce17ebed4e4afaf0c4feac307c",
+    "https://wvduijn.github.io/pwc/main.11c13104e7cd341818d3.bundle.js": "1741dab1f4b6b4fe2bad3fe3a76f521c70677155",
+    "https://wvduijn.github.io/pwc/assets/pwcat-icon-152x152.png": "589eb40773688b8534b037ed42969b922d4fd0d9",
+    "https://wvduijn.github.io/pwc/polyfills.43a6a16e791d2caa0484.bundle.js": "669df48deb7f2148518a6e8e9490ba8ee2db7000",
+    "https://wvduijn.github.io/pwc/assets/pwcat-icon-256x256.png": "03631b23dee49492295c9fb6bd0551ba1cf49f44",
+    "https://wvduijn.github.io/pwc/styles.433ae262f62bc0d4f0fb.bundle.css": "5aeb548da2578c740ff11445fd5e5b9ee40059dc",
+    "https://wvduijn.github.io/pwc/assets/pwcat-icon-512x512.png": "3c340a2ecf32db0e2ab547ac0863c12429ed92a6",
+    "https://wvduijn.github.io/pwc/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://wvduijn.github.io/pwc/index.html": "2e164cdc7532a47e381344a30327c29df9995d43"
+  }
+}

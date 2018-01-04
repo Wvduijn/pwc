@@ -1,0 +1,27 @@
+{
+    "name": "Progressive Web Cat",
+    "short_name": "PWCat",
+    "description": "A funny cat image generator",  
+    "pwcat-icons": [{
+      "src": "assets/pwcat-icon-128x128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      }, {
+        "src": "assets/pwcat-icon-152x152.png",
+        "sizes": "152x152",
+        "type": "image/png"
+      }, {
+        "src": "assets/pwcat-icon-256x256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      }, {
+        "src": "assets/pwcat-icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }],
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#99003b"
+  }
+  
