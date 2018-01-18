@@ -2,7 +2,7 @@
     "name": "Progressive Web Cat",
     "short_name": "PWCat",
     "description": "A funny cat image generator",  
-    "pwcat-icons": [{
+    "icons": [{
       "src": "assets/pwcat-icon-128x128.png",
         "sizes": "128x128",
         "type": "image/png"
